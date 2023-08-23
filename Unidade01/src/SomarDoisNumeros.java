@@ -15,5 +15,7 @@ class SomarDoisNumeros {
 		soma = num1 + num2;
 		//Mostrar na tela
 		System.out.println("Soma:" + soma);
+		//comentário extra para fazer commit com o eclipse
+		System.out.println("Linha adicionada no eclipse");
 	}
 }
